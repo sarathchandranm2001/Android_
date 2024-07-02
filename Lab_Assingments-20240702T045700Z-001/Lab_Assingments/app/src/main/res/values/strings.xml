@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab_Assingments</string>
+    <string name="linear" />
+    <string name="layout" />
+    <string name="relative_layout" />
+    <string name="frame_layout" />
+    <string name="row_1_column_1" />
+    <string name="row_1_column_2" />
+    <string name="row_2_column_1" />
+    <string name="row_2_column_2" />
+    <string name="constraint_layout" />
+</resources>
