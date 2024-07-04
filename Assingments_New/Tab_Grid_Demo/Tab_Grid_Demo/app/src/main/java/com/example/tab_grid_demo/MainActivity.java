@@ -17,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
         coursesGV = findViewById(R.id.idGVcourses);
         ArrayList<CourseModel> courseModelArrayList = new ArrayList<>();
 
-        courseModelArrayList.add(new CourseModel("DSA", R.drawable.ic_gfglogo));
-        courseModelArrayList.add(new CourseModel("JAVA", R.drawable.ic_gfglogo));
+        courseModelArrayList.add(new CourseModel("DSA", R.drawable.ic_launcher_background));
+        courseModelArrayList.add(new CourseModel("JAVA", R.drawable.ic_launcher_background));
         courseModelArrayList.add(new CourseModel("C++", R.drawable.ic_gfglogo));
         courseModelArrayList.add(new CourseModel("Python", R.drawable.ic_gfglogo));
         courseModelArrayList.add(new CourseModel("Javascript", R.drawable.ic_gfglogo));
