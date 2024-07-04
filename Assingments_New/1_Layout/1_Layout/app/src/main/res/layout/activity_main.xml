@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayoutMain"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btnConstraintLayout"
+        android:text="ConstraintLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="navigateToConstraintLayout"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/btnLinearLayout"
+        android:text="LinearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="navigateToLinearLayout"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/btnRelativeLayout"
+        android:text="RelativeLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="navigateToRelativeLayout"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/btnFrameLayout"
+        android:text="FrameLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="navigateToFrameLayout"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/btnTableLayout"
+        android:text="TableLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="navigateToTableLayout"
+        android:layout_margin="8dp"/>
+
+</LinearLayout>
+
+
+

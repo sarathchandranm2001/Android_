@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1_Layout</string>
+    <string name="constraint_layout">Constraint Layout !!!</string>
+    <string name="linear_layout_example">Linear Layout Example</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_name">Enter your name</string>
+</resources>
