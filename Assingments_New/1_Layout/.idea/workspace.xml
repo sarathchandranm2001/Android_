@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="539965b9-2af5-4086-b337-6907b434ee01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/app/src/main/res/color/green.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/ContextMenuApp/ContextMenuApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/ContextMenuApp/ContextMenuApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/ContextMenuApp/ContextMenuApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/ContextMenuApp/ContextMenuApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/ContextMenuApp/ContextMenuApp/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/ContextMenuApp/ContextMenuApp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/ContextMenuApp/ContextMenuApp/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/ContextMenuApp/ContextMenuApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/FoodDelivery/FoodDelivery" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/FoodDelivery/FoodDelivery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/FoodDelivery/FoodDelivery/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/FoodDelivery/FoodDelivery/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/FoodDelivery/FoodDelivery/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/FoodDelivery/FoodDelivery/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/FoodDelivery/FoodDelivery/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/FoodDelivery/FoodDelivery/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/FoodDelivery/FoodDelivery/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/FoodDelivery/FoodDelivery/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/.idea/appInsightsSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/IOScalculator/IOScalculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout/app/src/main/java/com/example/tablayout/Tab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout/app/src/main/java/com/example/tablayout/Tab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout/app/src/main/res/layout/fragment_tab1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/Tablayout/Tablayout/app/src/main/res/layout/fragment_tab1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/layoutdemo/layoutdemo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/optionmenu/optionmenu" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/optionmenu/optionmenu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/optionmenu/optionmenu/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/optionmenu/optionmenu/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/optionmenu/optionmenu/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/optionmenu/optionmenu/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/optionmenu/optionmenu/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/optionmenu/optionmenu/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/optionmenu/optionmenu/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/pro7/pro7" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android_Assingnments/pro7/pro7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/pro7/pro7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/pro7/pro7/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/pro7/pro7/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/pro7/pro7/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/pro7/pro7/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/pro7/pro7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android_Assingnments/pro7/pro7/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOScalculator/IOScalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../IOScalculator/IOScalculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOScalculator/IOScalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOScalculator/IOScalculator/.idea/appInsightsSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOScalculator/IOScalculator/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOScalculator/IOScalculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IOScalculator/IOScalculator/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOScalculator/IOScalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IOScalculator/IOScalculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOScalculator/IOScalculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IOScalculator/IOScalculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOScalculator/IOScalculator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../IOScalculator/IOScalculator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOScalculator/IOScalculator/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IOScalculator/IOScalculator/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOScalculator/IOScalculator/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../IOScalculator/IOScalculator/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOScalculator/IOScalculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IOScalculator/IOScalculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2imIP8KfABdwEtBf6iX2YoJo2ue" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/MCA/Android/Android/Assingments_New/1_Layout"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="539965b9-2af5-4086-b337-6907b434ee01" name="Changes" comment="" />
+      <created>1720089298286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720089298286</updated>
+    </task>
+    <servers />
+  </component>
+</project>

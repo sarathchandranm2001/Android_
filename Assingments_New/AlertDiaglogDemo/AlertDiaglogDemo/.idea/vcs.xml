@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Android_Assingnments/ContextMenuApp/ContextMenuApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Android_Assingnments/FoodDelivery/FoodDelivery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Android_Assingnments/IOScalculator/IOScalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Android_Assingnments/Tablayout/Tablayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Android_Assingnments/layoutdemo/layoutdemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Android_Assingnments/optionmenu/optionmenu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Android_Assingnments/pro7/pro7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Simple_calculator" vcs="Git" />
+  </component>
+</project>
