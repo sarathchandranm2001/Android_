@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             EditText obje=(EditText) findViewById(R.id.input1);
-            String u=obje.getText().toString();
+            String u= String.valueOf(obje.getText());
             TextView obj=(TextView)  findViewById(R.id.tv1);
             obj.setText(u);
 
