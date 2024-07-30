@@ -28,5 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
             return insets;
         });
+        public void ButtonActivity(View v){
+            
+        }
     }
 }
